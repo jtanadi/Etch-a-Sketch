@@ -4,7 +4,7 @@ Print sketch pages from RoboFont.
 **Needs [DrawBot module](https://github.com/typemytype/drawBotRoboFontExtension) installed.**
 
 ### From earlier script version — currently being refactored
-See original script [here](https://github.com/jtanadi/robofontScripts/tree/master/etchASketch)
+#### See original script [here](https://github.com/jtanadi/robofontScripts/tree/master/etchASketch)
 
 - Custom font name when no font is open
 - Open font can be assigned as refrence in title block (e.g. when sketching different weights, etc.)
